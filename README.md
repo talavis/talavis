@@ -1,16 +1,15 @@
-### Hi there 👋
+Currently a system developer at SciLifeLab Data Centre.
 
-<!--
-**talavis/talavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Has a master in Biomedicine and a PhD focusing on structural bioinformatics from Karolinska Institutet. Mostly self-taught when it comes to computer-related topics.
 
-Here are some ideas to get you started:
+My publications are listed at [Google Scholar](https://scholar.google.com/citations?user=nafzIpQAAAAJ).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Coding mainly in Python 3, but has a tendency towards testing a lot of other languages and frameworks.
+
+Some of my current work:
+* Development of a system for tracking data generated at SciLifeLab ([code](https://github.com/ScilifelabDataCentre/Data-Tracker))
+* Configuring and hosting an [instance](http://dsw.scilifelab.se/) of [Data Stewardship Wizard](https://ds-wizard.org/) for SciLifeLab
+* Responsible for hosting multiple services in a Kubernetes cluster for SciLifeLab
+* Some work on the [Swedish COVID-19 Data Portal](https://covid19dataportal.se/)
+* Development and maintenance of [SweFreq](https://swefreq.nbis.se/)
+* [Lunch menu aggregator](https://menu.dckube.scilifelab.se/) for restaurants at SciLifeLab Solna and Uppsala
