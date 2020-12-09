@@ -9,7 +9,7 @@ Coding mainly in Python 3, but has a tendency towards testing a lot of other lan
 Some of my current work:
 * Development of a system for tracking data generated at SciLifeLab ([code](https://github.com/ScilifelabDataCentre/Data-Tracker))
 * Configuring and hosting an [instance](http://dsw.scilifelab.se/) of [Data Stewardship Wizard](https://ds-wizard.org/) for SciLifeLab
-* Responsible for hosting multiple services in a Kubernetes cluster for SciLifeLab
+* Responsible for a Kubernetes cluster (with multiple hosted services) for SciLifeLab Data Centre
 * Some work on the [Swedish COVID-19 Data Portal](https://covid19dataportal.se/)
 * Development and maintenance of [SweFreq](https://swefreq.nbis.se/)
 * [Lunch menu aggregator](https://menu.dckube.scilifelab.se/) for restaurants at SciLifeLab Solna and Uppsala
