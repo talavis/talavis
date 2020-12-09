@@ -1,6 +1,6 @@
-Currently a system developer at SciLifeLab Data Centre.
+Currently a system developer and system administrator at SciLifeLab Data Centre.
 
-Has a master in Biomedicine and a PhD focusing on structural bioinformatics from Karolinska Institutet. Mostly self-taught when it comes to computer-related topics.
+I have a master degree in Biomedicine and a PhD focusing on structural bioinformatics from Karolinska Institutet. Mostly self-taught when it comes to computer-related topics.
 
 My publications are listed at [Google Scholar](https://scholar.google.com/citations?user=nafzIpQAAAAJ).
 
