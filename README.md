@@ -4,7 +4,7 @@ I have a master degree in Biomedicine and a PhD focusing on structural bioinform
 
 My publications are listed at [Google Scholar](https://scholar.google.com/citations?user=nafzIpQAAAAJ).
 
-Coding mainly in Python 3, but has a tendency towards testing a lot of other languages and frameworks.
+Mostly coding in Python 3, but has a tendency towards testing a lot of other languages and frameworks.
 
 Some of my current work:
 * Development of a system for tracking data generated at SciLifeLab ([code](https://github.com/ScilifelabDataCentre/Data-Tracker))
