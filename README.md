@@ -4,4 +4,4 @@ I have a master degree in Biomedicine and a PhD focusing on structural bioinform
 
 My publications are listed at [Google Scholar](https://scholar.google.com/citations?user=nafzIpQAAAAJ).
 
-Mostly coding in Python 3, but has a tendency towards testing a lot of other languages and frameworks.
+I'm mostly coding in Python 3, but I have a tendency towards testing a lot of other languages and frameworks.
