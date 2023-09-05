@@ -1,4 +1,4 @@
-Currently a system developer and system administrator at SciLifeLab Data Centre.
+Currently a devops engineer/Kubernetes consultant at Conoa AB.
 
 I have a master degree in Biomedicine and a PhD focusing on structural bioinformatics from Karolinska Institutet. Mostly self-taught when it comes to computer-related topics.
 
